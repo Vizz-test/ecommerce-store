@@ -39,7 +39,7 @@ const Header = () => {
 				                        </a>
 				                        <ul class="dropdown-menu cart-list s-cate">
 				                            <li class="single-cart-list">
-				                                <a href="#" class="photo"><img src="./images/collection/arrivals1.png" class="cart-thumb" alt="image" /></a>
+				                                <a href="#" class="photo"><img src="./images/collection/arrivals1.png" class="cart-thumb" alt="cart-thumb" /></a>
 				                                <div class="cart-list-txt">
 				                                	<h6><a href="#">arm <br/> chair</a></h6>
 				                                	<p>1 x - <span class="price">$180.00</span></p>
@@ -49,7 +49,7 @@ const Header = () => {
 				                                </div>
 				                            </li>
 				                            <li class="single-cart-list">
-				                                <a href="#" class="photo"><img src="./images/collection/arrivals2.png" class="cart-thumb" alt="image" /></a>
+				                                <a href="#" class="photo"><img src="./images/collection/arrivals2.png" class="cart-thumb" alt="cart-thumb" /></a>
 				                                <div class="cart-list-txt">
 				                                	<h6><a href="#">single <br/> armchair</a></h6>
 				                                	<p>1 x - <span class="price">$180.00</span></p>
@@ -59,7 +59,7 @@ const Header = () => {
 				                                </div>
 				                            </li>
 				                            <li class="single-cart-list">
-				                                <a href="#" class="photo"><img src="./images/collection/arrivals3.png" class="cart-thumb" alt="image" /></a>
+				                                <a href="#" class="photo"><img src="./images/collection/arrivals3.png" class="cart-thumb" alt="cart-thumb" /></a>
 				                                <div class="cart-list-txt">
 				                                	<h6><a href="#">wooden arn <br/> chair</a></h6>
 				                                	<p>1 x - <span class="price">$180.00</span></p>

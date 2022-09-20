@@ -48,7 +48,7 @@ const Home = () => {
                    <div class="col-sm-5">
                      <div class="single-welcome-hero">
                        <div class="welcome-hero-img">
-                         <img src="./images/slider/slider1.png" alt="slider image"/>
+                         <img src="./images/slider/slider1.png" alt="slider"/>
                        </div>
                      </div>
                    </div>
@@ -91,7 +91,7 @@ const Home = () => {
                    <div class="col-sm-5">
                      <div class="single-welcome-hero">
                        <div class="welcome-hero-img">
-                         <img src="./images/slider/slider2.png" alt="slider image"/>
+                         <img src="./images/slider/slider2.png" alt="slider"/>
                        </div>
                      </div>
                    </div>
@@ -134,7 +134,7 @@ const Home = () => {
                    <div class="col-sm-5">
                      <div class="single-welcome-hero">
                        <div class="welcome-hero-img">
-                         <img src="./images/slider/slider3.png" alt="slider image"/>
+                         <img src="./images/slider/slider3.png" alt="slider"/>
                        </div>
                      </div>
                    </div>
